@@ -1,0 +1,22 @@
+[
+  {"codigo": 1, "nombre": "Pedro", "apellido": "López", "sexo": "Masculino", "estado_civil": "Soltero"},
+  {"codigo": 2, "nombre": "María", "apellido": "Cruz", "sexo": "Femenino", "estado_civil": "Casado"},
+  {"codigo": 3, "nombre": "Carlos", "apellido": "Gómez", "sexo": "Masculino", "estado_civil": "Viudo"},
+  {"codigo": 4, "nombre": "Ana", "apellido": "Reyes", "sexo": "Femenino", "estado_civil": "Soltero"},
+  {"codigo": 5, "nombre": "Luis", "apellido": "Torres", "sexo": "Masculino", "estado_civil": "Casado"},
+  {"codigo": 6, "nombre": "Lucía", "apellido": "Ramírez", "sexo": "Femenino", "estado_civil": "Divorciado"},
+  {"codigo": 7, "nombre": "Jorge", "apellido": "Vargas", "sexo": "Masculino", "estado_civil": "Soltero"},
+  {"codigo": 8, "nombre": "Patricia", "apellido": "Fernández", "sexo": "Femenino", "estado_civil": "Casado"},
+  {"codigo": 9, "nombre": "Miguel", "apellido": "Castro", "sexo": "Masculino", "estado_civil": "Viudo"},
+  {"codigo": 10, "nombre": "Elena", "apellido": "Paredes", "sexo": "Femenino", "estado_civil": "Soltero"},
+  {"codigo": 11, "nombre": "Ricardo", "apellido": "Mendoza", "sexo": "Masculino", "estado_civil": "Casado"},
+  {"codigo": 12, "nombre": "Sofía", "apellido": "Navarro", "sexo": "Femenino", "estado_civil": "Divorciado"},
+  {"codigo": 13, "nombre": "Fernando", "apellido": "Salazar", "sexo": "Masculino", "estado_civil": "Soltero"},
+  {"codigo": 14, "nombre": "Daniela", "apellido": "Rojas", "sexo": "Femenino", "estado_civil": "Casado"},
+  {"codigo": 15, "nombre": "Andrés", "apellido": "Flores", "sexo": "Masculino", "estado_civil": "Viudo"},
+  {"codigo": 16, "nombre": "Camila", "apellido": "Herrera", "sexo": "Femenino", "estado_civil": "Soltero"},
+  {"codigo": 17, "nombre": "José", "apellido": "Silva", "sexo": "Masculino", "estado_civil": "Casado"},
+  {"codigo": 18, "nombre": "Valeria", "apellido": "Ortiz", "sexo": "Femenino", "estado_civil": "Divorciado"},
+  {"codigo": 19, "nombre": "Diego", "apellido": "Aguilar", "sexo": "Masculino", "estado_civil": "Soltero"},
+  {"codigo": 20, "nombre": "Paula", "apellido": "Morales", "sexo": "Femenino", "estado_civil": "Casado"}
+]
